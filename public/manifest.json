@@ -3,7 +3,7 @@
     "theme_color": "#f7931a",
     "name": "Minimal Crypto Price Widget",
     "short_name": "Svelte Crypto",
-    "display": "browser",
+    "display": "fullscreen",
     "start_url": "/",
     "icons": [
       {
