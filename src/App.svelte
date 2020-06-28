@@ -18,7 +18,7 @@
 				feedList.push(tmp)
 			}
 		})
-		console.log(feedList)
+		console.log("%c with love from anoram ", "font-weight: bold; font-size: 15px;color: #fc4a1a;  border:1px dotted #f7b733")
 	}
 
 	fetchFeed()
