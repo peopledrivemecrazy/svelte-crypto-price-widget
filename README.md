@@ -1,4 +1,4 @@
-## demo https://crypto.anoram.com/
+## demo https://widget.anoram.com/
 
 Clone ``npm install`` 
 
